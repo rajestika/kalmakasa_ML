@@ -1,0 +1,6 @@
+{
+    "Stress": 0,
+    "Depression": 1,
+    "Anxiety": 2,
+    "Normal" : 3
+}
