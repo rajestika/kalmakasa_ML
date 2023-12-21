@@ -12,17 +12,17 @@ Kalmakasa integrates advanced Machine Learning (ML) techniques to offer a two-fo
 ## Languages and Tools
 This project is developed using a range of powerful technologies and libraries:
 
->**Python**: The core programming language for our development.
+- **Python**: The core programming language for our development.
 
->**TensorFlow**: An open-source platform for machine learning.
+- **TensorFlow**: An open-source platform for machine learning.
 
->**Scikit-Learn**: A tool for data mining and data analysis.
+- **Scikit-Learn**: A tool for data mining and data analysis.
 
->**NumPy**: Essential for scientific computing with Python.
+- **NumPy**: Essential for scientific computing with Python.
 
->**Pandas**: A library providing high-performance, easy-to-use data structures.
+- **Pandas**: A library providing high-performance, easy-to-use data structures.
 
->**Matplotlib**: A plotting library for Python and its numerical mathematics extension NumPy.
+- **Matplotlib**: A plotting library for Python and its numerical mathematics extension NumPy.
 
 ## Our Model and Performance
 
