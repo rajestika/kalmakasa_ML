@@ -25,4 +25,25 @@ This project is developed using a range of powerful technologies and libraries:
 - **Matplotlib**: A plotting library for Python and its numerical mathematics extension NumPy.
 
 ## Our Model and Performance
+ ### Mental Health Disorder Classification
+ ![Teks Alternatif](https://github.com/bangkit-capstone-CH2-PS311/kalmakasa_ML/raw/main/Model/Cuplikan%20layar%202023-12-22%20000312.png)
+ 
+ We used 4498 data from kaggle and split 80% to data train and 20% to data validation, we get accuracy around 95% and validation accuracy around 87%.
+
+  ### Emotion Classification
+ ![Teks Alternatif](https://github.com/bangkit-capstone-CH2-PS311/kalmakasa_ML/blob/main/Model/Cuplikan%20layar%202023-12-22%20000323.png)
+ 
+ We used 5919 data from kaggle and split 80% to data train and 20% to data validation, we get accuracy around 97% and validation accuracy around 87%.
+
+
+ ### Chatbot 
+ ![Teks Alternatif](https://github.com/bangkit-capstone-CH2-PS311/kalmakasa_ML/blob/main/Model/Cuplikan%20layar%202023-12-22%20000335.png)
+ 
+ We used 499 data from Kaggle, and we also created some data. We use data to train the model, we get accuracy around 99%.
+
+
+
+
+
+
 
