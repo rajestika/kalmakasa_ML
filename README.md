@@ -5,7 +5,7 @@ The prevalence of Major Depressive Disorder (MDD) and anxiety among students is 
 ## What We Do
 Kalmakasa integrates advanced Machine Learning (ML) techniques to offer a two-fold solution:
 
-- Multi-Class Classification: Utilizing ML algorithms to categorize mental health states into various levels based on questionnaire responses.
+- Multi-Class Classification: Utilizing ML algorithms to categorize mental health states into various conditions based on user's journal.
 
 - Chatbot: An interactive chatbot to guide users through the questionnaire and provide initial feedback and recommendations.
 
